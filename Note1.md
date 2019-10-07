@@ -32,9 +32,10 @@ Before we get into any coding syntax, I think it necessary to understand how eac
 
 The following pictures  might give a concrete interpretation on how Git works.
 
-<img src="C:\Users\like\Desktop\1570456537504.jpeg" alt="avatar" style="zoom:50%;" />
+![01](https://github.com/PolarisStudio/Ke-LI_notes/blob/master/img_folder/01.jpeg)
 
-![avatar](C:\Users\like\Desktop\QQ截图20191007221650.jpg)
+
+![02](https://github.com/PolarisStudio/Ke-LI_notes/blob/master/img_folder/02.jpeg)
 
 I remembered a few necessary and basic syntax for a quick start. 
 
