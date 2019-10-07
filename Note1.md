@@ -35,7 +35,7 @@ The following pictures  might give a concrete interpretation on how Git works.
 ![01](https://github.com/PolarisStudio/Ke-LI_notes/blob/master/img_folder/01.jpeg)
 
 
-![02](https://github.com/PolarisStudio/Ke-LI_notes/blob/master/img_folder/02.jpeg)
+![02](https://github.com/PolarisStudio/Ke-LI_notes/blob/master/img_folder/02.jpg)
 
 I remembered a few necessary and basic syntax for a quick start. 
 
